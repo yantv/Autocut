@@ -1,4 +1,4 @@
-**Tool for Removing Silences from Videos**
+**Tool for Removing Silences from Videos 60 fps**
 
 This tool is designed for simplicity and efficiency, automatically cutting out all silences from your videos.
 It's particularly useful for shortening lecture recordings or automating the initial editing process for your own videos.
